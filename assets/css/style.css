@@ -481,7 +481,7 @@ section {
 
 .section-title h2 {
   font-size: 32px;
-  font-weight: 700;
+  font-weight: 550;
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
@@ -497,7 +497,7 @@ section {
   left: 0;
   right: 0;
   z-index: 1;
-  font-weight: 700;
+  font-weight: 550;
   font-size: 52px;
   text-transform: uppercase;
   line-height: 0;
@@ -1275,10 +1275,10 @@ section {
 
 #footer .footer-top h3 {
   font-size: 36px;
-  font-weight: 700;
+  font-weight: 550;
   color: #5f687b;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
   padding-bottom: 0;
   margin-bottom: 0;
 }
